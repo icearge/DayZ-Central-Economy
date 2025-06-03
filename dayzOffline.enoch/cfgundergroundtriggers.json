@@ -187,6 +187,13 @@
 					"Radius": -1
 				}
 			]
+		},
+		{     
+                    "Position": [ 5785.16, 193.095, 11612.9 ],
+                    "Orientation": [ 0, 0, 0 ],
+                    "Size": [ 6, 8, 7.6 ],
+                    "EyeAccommodation": 1,
+                    "Breadcrumbs": []
 		}
 	]
 }
